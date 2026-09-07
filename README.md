@@ -1,5 +1,5 @@
 # 🚀 Azure Databricks & Unity Catalog Governance Playbook
-```markdown
+
 
 
 A comprehensive reference guide and cheat sheet covering Azure Databricks Architecture, Unity Catalog Governance, Data Lake Lifecycle, Delta Lake Features, and Auto Loader Streaming Pipelines.
